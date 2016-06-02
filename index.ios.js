@@ -19,10 +19,7 @@ import {ListViewTest} from './scr/ListViewTest';
 class RNflexbox extends Component {
   render() {
     return (
-    // <App/> //
-    //dfhadfadklfjaklsdjfaklsdj
-    /////////////dfajfkadfasdfaksldf
-    //
+    /*<App/> */
     <ListViewTest/>
     );
   }
